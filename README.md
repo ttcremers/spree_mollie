@@ -17,7 +17,7 @@ At the moment spree_mollie is only available trough github.
 Add spree_mollie to your Gemfile:
 
 ```ruby
-gem 'spree_mollie', github: 'ttcremers/spree_mollie'
+gem 'spree_mollie', github: 'ttcremers/spree_mollie', branch: 'stable'
 ```
 
 Bundle your dependencies there is no generator needed for this spree payment gateway
