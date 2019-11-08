@@ -2,7 +2,7 @@ SpreeMollie
 ===========
 Except payments using the [Mollie](https://www.mollie.com) payment provider in Spree
 
-Spree Mollie payment gateway based on the Mollie ruby gem developed by Mollie. Developed by [VicinitySoftware](http://vicinitysoftware.com)
+Spree Mollie payment gateway based on the Mollie ruby gem developed by Mollie. Developed by [Thomas Cremers](http://thomascremers.com)
 
 **NOTE This is currently only implemented agains Spree master (3.1.0.beta)**
 
